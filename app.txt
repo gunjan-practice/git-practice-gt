@@ -5,3 +5,6 @@ Homepage updated
 Payment feature added
 Security update added
 Profile feature added
+Search box added
+Search button added
+Search styling added
