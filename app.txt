@@ -2,3 +2,4 @@ Hello Git
 This is version 2
 Login feature added
 Homepage updated
+Payment feature added
