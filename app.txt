@@ -4,3 +4,4 @@ Login feature added
 Homepage updated
 Payment feature added
 Security update added
+Profile feature added
