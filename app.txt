@@ -8,3 +8,4 @@ Profile feature added
 Search box added
 Search button added
 Search styling added
+Change made directly on GitHub
